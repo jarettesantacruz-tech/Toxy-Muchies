@@ -1,2 +1,2 @@
 # Toxy-Muchies
-🍦A minimal landing page using HTML to showcase a small business storefront.
+🍦A minimal landing page made to showcase a small business storefront.
